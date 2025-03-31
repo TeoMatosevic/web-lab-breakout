@@ -43,6 +43,7 @@ cd web-lab-breakout
 - **Control:** Use the arrow keys to move the paddle.
 - **Objective:** Destroy all the bricks by bouncing the ball off the paddle.
 - **Rules:** If the ball falls past the paddle, you lose a life. The game ends when all lives are lost.
+- **URL:** [Web Lab Breakout](https://breakout-7q38.onrender.com/)
 
 ## Credits
 - Developed as part of a university lab exercise.
